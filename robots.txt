@@ -1,0 +1,6 @@
+# robotstxt.org
+
+Sitemap: htt://online-magasin.mortenkirch.dk/sitemap.xml
+
+User-Agent: *
+allow:
